@@ -3,4 +3,4 @@ ds
 ew
 cds
 fhmfnb
-repo:push
+repo:pushcds
